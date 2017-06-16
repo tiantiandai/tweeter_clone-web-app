@@ -1,0 +1,127 @@
+/* float is going to place it to whereeve I specify to the parent's container
+padding: marigin top _> add space on the top to push it down
+margin is the space around it (top, right, bottom, left)
+
+*/
+
+.counter{
+   float: right;
+}
+
+.new-tweet {
+  border-radius: 10px;
+  margin: 2em;
+  margin-left: 70px;
+  margin-bottom: 100px
+  border-radius: 10px;
+  border: 2px solid #dee0ea;
+  padding: 15px;
+  width: 600px;
+  height: 210px;
+}
+
+.textSpace {
+  display: block;
+  width: 567px;
+  padding: 5px;
+}
+
+.old_tweets {
+  border-radius: 10px;
+  margin: 2em;
+  margin-left: 70px;
+  margin-bottom: 100px
+  border-radius: 10px;
+  border: 2px solid #dee0ea;
+  padding: 0px;
+  width: 600px;
+}
+
+.tweet_header {
+  background-color: #dee0ea;
+  margin: 0;
+}
+
+.header_container {
+  height: 70px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.image{
+  width: 50px;
+  height: 50px;
+  float: left;
+}
+
+.handle{
+  float:right;
+}
+
+
+
+article {
+  margin: 3em 1em 1em 1em;
+  border: 2px solid #eee;
+  border-radius: 10px;
+  opacity: 0.8;
+}
+article:hover, article:active {
+  opacity: 1;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 3em 1em 1em 1em;
+}
+article header {
+  background-color: #eee;
+  height: 100px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+
+}
+header .img {
+  width: 80px;
+  height: 80px;
+  float: left;
+  border-radius: 10px;
+  margin:10px;
+  background:white;
+}
+header .username {
+  font-size: 30px;
+  float: left;
+  padding-left: 9px;
+  line-height: 0px;
+  font-weight: 700;
+}
+header .userfields {
+  float: right;
+  line-height: 40px;
+  padding-right: 10px;
+  font-size: 15px;
+}
+.content {
+  height: 80px;
+  line-height: 30px;
+  padding-left: 15px;
+}
+footer {
+  border-top: 2px solid #eee;
+  padding-left: 10px;
+}
+/*.fa {
+  display:none;
+}*/
+article:hover footer p i {
+  display: inline-block;
+  float: right;
+  font-size: 20px;
+  color:  #ffe4e1 ;
+  line-height: 10px;
+  padding: 4px;
+  margin-right: 4px;
+}
+
+.fa{
+  display: none;
+}
