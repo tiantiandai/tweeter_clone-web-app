@@ -4,7 +4,7 @@ Tweeter is a simple, single-page Twitter clone.
 
 ## Final Product
 
-![“Main Page”]https://github.com/tiantiandai/tweeter_clone-web-app/blob/master/images/Screen%20Shot%202017-07-01%20at%203.57.10%20PM.png?raw=true)
+![“Main Page”](https://github.com/tiantiandai/tweeter_clone-web-app/blob/master/images/Screen%20Shot%202017-07-01%20at%203.57.10%20PM.png?raw=true)
 ![“MainPage: after clicked compose”](https://github.com/tiantiandai/tweeter_clone-web-app/blob/master/images/Screen%20Shot%202017-07-01%20at%203.57.26%20PM.png?raw=true)
 
 ## Getting Started
