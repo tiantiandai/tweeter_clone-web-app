@@ -24,7 +24,7 @@ body {
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
-.container {
+.new-container {
   background-color: white;
   margin: auto; /*  this will cneter align the block*/
   padding-bottom: 100%;

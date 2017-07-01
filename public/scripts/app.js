@@ -114,7 +114,7 @@ $(function() {
       request().createTweet(newTweet)
              .then(loadTweets);
         // $.ajax({
-        //   method: "POST",
+        //   method: "POST"
         //   url: '/tweets',
         //   data: $(this).serialize()
         // }).done(loadTweets);
